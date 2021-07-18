@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/BMICalc/static/css/main.9ad52cd4.chunk.css",
+    "main.js": "/BMICalc/static/js/main.6c1d1224.chunk.js",
+    "main.js.map": "/BMICalc/static/js/main.6c1d1224.chunk.js.map",
+    "runtime-main.js": "/BMICalc/static/js/runtime-main.692447b2.js",
+    "runtime-main.js.map": "/BMICalc/static/js/runtime-main.692447b2.js.map",
+    "static/js/2.da164170.chunk.js": "/BMICalc/static/js/2.da164170.chunk.js",
+    "static/js/2.da164170.chunk.js.map": "/BMICalc/static/js/2.da164170.chunk.js.map",
+    "index.html": "/BMICalc/index.html",
+    "static/css/main.9ad52cd4.chunk.css.map": "/BMICalc/static/css/main.9ad52cd4.chunk.css.map",
+    "static/js/2.da164170.chunk.js.LICENSE.txt": "/BMICalc/static/js/2.da164170.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.692447b2.js",
+    "static/js/2.da164170.chunk.js",
+    "static/css/main.9ad52cd4.chunk.css",
+    "static/js/main.6c1d1224.chunk.js"
+  ]
+}
